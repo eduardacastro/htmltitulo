@@ -1,3 +1,3 @@
-module github.com/eduardacastro/httptitulo
+module github.com/eduardacastro/htmltitulo
 
 go 1.17
